@@ -15,6 +15,7 @@ public class DemoSample {
 	@Test
 	public void testTwo()
 	{
+		System.out.println("Changes made on remote repository");
 		System.out.println("Test Two");
 		Assert.assertTrue(false);
 	}
