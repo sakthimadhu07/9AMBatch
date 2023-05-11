@@ -9,6 +9,18 @@ public class HashMapDemo {
 	
 	public static void main(String[] args) {
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("Hash Map Demo structure");
+		
+		
+		
 		HashMap<String, Integer> h = new HashMap();
 		//add--> put
 		
