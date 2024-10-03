@@ -7,5 +7,7 @@ public class SearchFun {
 	@Test
 	public void searchFun() {
 		System.out.println("SearchFun");
+		System.out.println("SearchFun");
+		System.out.println("SearchFun");
 	}
 }
