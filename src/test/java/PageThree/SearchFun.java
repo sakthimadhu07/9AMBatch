@@ -8,8 +8,8 @@ public class SearchFun {
 	public void searchFun() {
 		System.out.println("SearchFun");
 		System.out.println("SearchFun");
-		System.out.println("SearchFun");
-		System.out.println("SearchFun");
-		System.out.println("SearchFun");
+		System.out.println("sakthi");
+		System.out.println("sakthi");
+		System.out.println("sakthi");
 	}
 }
