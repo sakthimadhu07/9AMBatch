@@ -9,5 +9,7 @@ public class SearchFun {
 		System.out.println("SearchFun");
 		System.out.println("SearchFun");
 		System.out.println("SearchFun");
+		System.out.println("SearchFun");
+		System.out.println("SearchFun");
 	}
 }
